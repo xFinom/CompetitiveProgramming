@@ -1,6 +1,7 @@
 # Club de Algoritmia CUCEI (CAC): Básicos
 
-## Week 00: Positioning contest
+## Week 00: Placement contest
+**Summary:** A contest with a selection of problems to asses the participants' level.
 
 ### Problem Set:
 [A - Medium Number](https://codeforces.com/problemset/problem/1760/A) - Status: [Solved](/Codeforces/cf1760A_medium_number.cpp) :white_check_mark:
@@ -55,6 +56,3 @@
 [Y - Polygon](https://atcoder.jp/contests/abc117/tasks/abc117_b?lang=en) - Status: [Solved](/AtCoder/abc117B_polygon.cpp) :white_check_mark:
 
 [Z - AtCoder Begginer Contest 111](https://atcoder.jp/contests/abc111/tasks/abc111_b?lang=en) - Status: [Solved](/AtCoder/abc111B_atcoder_beginner_contest_111.cpp)
-
-A.  Prueba
-A.  Prueba2
