@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Whitelist folders
+!*/
+
+# Whitelist source files
+!*.md
+!*.cpp
+!*.py
+
+# Whitelist gitignore
+!.gitignore
