@@ -12,8 +12,6 @@
 
 [D - 3.14](https://atcoder.jp/contests/abc314/tasks/abc314_a?lang=en) - Status: [Solved](/AtCoder/abc314A_314.cpp) :white_check_mark:
 
-[D - 3.14](https://atcoder.jp/contests/abc314/tasks/abc314_a?lang=en) - Status: [Solved](/AtCoder/abc314A_314.cpp) :white_check_mark:
-
 [E - New Scheme](https://atcoder.jp/contests/abc308/tasks/abc308_a?lang=en) - Status: [Solved](/AtCoder/abc308A_new_scheme.cpp) :white_check_mark:
 
 [F - Full Moon](https://atcoder.jp/contests/abc318/tasks/abc318_a?lang=en) - Status: [Solved](/AtCoder/abc318A_full_moon.cpp) :white_check_mark:
