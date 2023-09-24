@@ -1,7 +1,7 @@
 # Club de Algoritmia CUCEI (CAC): Básicos
 
 ## Week 01: Basic Topics
-**Summary:** A brief introduction into efiency; time and space complexity using the Big-O notation.
+**Summary:** A brief introduction into efficiency; time and space complexity using the Big-O notation.
 
 ### Problem Set:
 [A - YES or YES?](https://codeforces.com/problemset/problem/1703/A) - Status: [Solved](/Codeforces/cf1703A_yes_or_yes.cpp) :white_check_mark:
