@@ -1,4 +1,4 @@
 # Week 00: Positioning contest
 
 ## Problem Set:
-[A - Medium Number](https://codeforces.com/problemset/problem/1760/A) - Status: :white_check_mark: Solved
+[A - Medium Number](https://codeforces.com/problemset/problem/1760/A) - Status: [Solved](/Codeforces/cf1760A_medium_number.cpp) :white_check_mark:
